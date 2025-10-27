@@ -1,0 +1,17 @@
+---
+title: "Lab 3S"
+author: "Mannette Gono"
+format:
+  html:
+    toc: true
+    toc_float: true
+    embed-resources: true
+editor: visual
+execute: 
+  warning: false
+  message: false
+---
+
+## About Me
+
+<https://ood.unity.rc.umass.edu/rnode/ceewater-cpu006.unity.rc.umass.edu/55885/files/Lab%201s.html>
